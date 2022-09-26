@@ -14,9 +14,12 @@ It helps developers in faster coding, in-turn reduces development cost.
 
 This is a trial mini project using JsonPowerDB:
 All CRUD operations are performed.
+
 Registration>> Insert Data
 Show>> Read Data
 Updation>> Update Data
 Deletion>> Delete Data
 
+
+Kindly review the file in master branch.
 
